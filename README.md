@@ -1,3 +1,3 @@
-# NASA-SWARM
+# CTRNN Foraging
 
-Simulation of swarm behaviors from basic stigmergic encoding for robotics tasks.
+An experimental platform for evolving a population of continuous time recurrent neural networks embedded in a simulated environment designed for foraging tasks.
